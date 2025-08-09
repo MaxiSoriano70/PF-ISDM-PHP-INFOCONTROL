@@ -1,7 +1,7 @@
 
 # 📋 InfoControl — Gestión de Usuarios
 
-Este proyecto es una aplicación web sencilla creada como **Trabajo Práctico Final** en el instituto. Su propósito es administrar usuarios vinculados a provincias argentinas, permitiendo su registro y consulta mediante una interfaz clara y funcional.
+Este proyecto es una aplicación web sencilla creada como **Trabajo Práctico** en el instituto. Su propósito es administrar usuarios vinculados a provincias argentinas, permitiendo su registro y consulta mediante una interfaz clara y funcional.
 
 ---
 
@@ -69,14 +69,12 @@ Incluye usuarios con sus datos personales y la provincia a la que pertenecen.
 
 - 📄 Registro de nuevos usuarios con selección de provincia.
 - 📑 Listado de usuarios existentes.
-- 🔐 Contraseñas cifradas para mayor seguridad.
+- 🔐 Contraseña.
 - 🔍 Filtros básicos por provincia (opcional según implementación).
 
 ---
 
 ## 🧪 Notas Técnicas
-
-- El cifrado de contraseñas usa `sha1()` o `hash()` (puede mejorarse con `password_hash()`).
 - El diseño es responsive gracias a Bootstrap.
 - Es ideal para aprender relaciones entre tablas y manejo básico de formularios.
 
