@@ -1,7 +1,7 @@
 
 # 📋 InfoControl — Gestión de Usuarios
 
-Este proyecto es una aplicación web sencilla creada como **Trabajo Práctico** en el instituto. Su propósito es administrar usuarios vinculados a provincias argentinas, permitiendo su registro y consulta mediante una interfaz clara y funcional.
+Aplicación web sencilla desarrollada como trabajo práctico durante la carrera de **Técnico Analista de Sistemas en el Instituto del Milagro**. Permite administrar usuarios asociados a provincias argentinas, con funcionalidades de registro y consulta a través de una interfaz clara y funcional.
 
 ---
 
